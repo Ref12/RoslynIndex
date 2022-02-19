@@ -1,0 +1,1099 @@
+{
+  "Entries": {
+    "dir.json": {
+      "Length": 22417
+    },
+    "boundsource/segments.gen": {
+      "Length": 36
+    },
+    "boundsource/segments_1": {
+      "Length": 305
+    },
+    "boundsource/_0.cfe": {
+      "Length": 274
+    },
+    "boundsource/_0.cfs": {
+      "Length": 77267376
+    },
+    "boundsource/_0.si": {
+      "Length": 253
+    },
+    "boundsource/_1.cfe": {
+      "Length": 274
+    },
+    "boundsource/_1.cfs": {
+      "Length": 15015605
+    },
+    "boundsource/_1.si": {
+      "Length": 253
+    },
+    "boundsource/_2.cfe": {
+      "Length": 274
+    },
+    "boundsource/_2.cfs": {
+      "Length": 4838514
+    },
+    "boundsource/_2.si": {
+      "Length": 253
+    },
+    "boundsource/_3.cfe": {
+      "Length": 274
+    },
+    "boundsource/_3.cfs": {
+      "Length": 2863384
+    },
+    "boundsource/_3.si": {
+      "Length": 253
+    },
+    "boundsource/_4.cfe": {
+      "Length": 274
+    },
+    "boundsource/_4.cfs": {
+      "Length": 2319367
+    },
+    "boundsource/_4.si": {
+      "Length": 253
+    },
+    "boundsource/_5.cfe": {
+      "Length": 274
+    },
+    "boundsource/_5.cfs": {
+      "Length": 1652379
+    },
+    "boundsource/_5.si": {
+      "Length": 253
+    },
+    "boundsource/_6.cfe": {
+      "Length": 274
+    },
+    "boundsource/_6.cfs": {
+      "Length": 33978208
+    },
+    "boundsource/_6.si": {
+      "Length": 253
+    },
+    "commit/segments.gen": {
+      "Length": 36
+    },
+    "commit/segments_1": {
+      "Length": 89
+    },
+    "commit/_0.cfe": {
+      "Length": 348
+    },
+    "commit/_0.cfs": {
+      "Length": 2991
+    },
+    "commit/_0.si": {
+      "Length": 253
+    },
+    "commitfiles/segments.gen": {
+      "Length": 36
+    },
+    "commitfiles/segments_1": {
+      "Length": 89
+    },
+    "commitfiles/_0.cfe": {
+      "Length": 210
+    },
+    "commitfiles/_0.cfs": {
+      "Length": 1327
+    },
+    "commitfiles/_0.si": {
+      "Length": 253
+    },
+    "definition/segments.gen": {
+      "Length": 36
+    },
+    "definition/segments_1": {
+      "Length": 490
+    },
+    "definition/_10.cfe": {
+      "Length": 400
+    },
+    "definition/_10.cfs": {
+      "Length": 4823283
+    },
+    "definition/_10.si": {
+      "Length": 256
+    },
+    "definition/_11.cfe": {
+      "Length": 400
+    },
+    "definition/_11.cfs": {
+      "Length": 392611
+    },
+    "definition/_11.si": {
+      "Length": 256
+    },
+    "definition/_13.cfe": {
+      "Length": 400
+    },
+    "definition/_13.cfs": {
+      "Length": 3778644
+    },
+    "definition/_13.si": {
+      "Length": 256
+    },
+    "definition/_14.cfe": {
+      "Length": 400
+    },
+    "definition/_14.cfs": {
+      "Length": 379038
+    },
+    "definition/_14.si": {
+      "Length": 256
+    },
+    "definition/_15.fdt": {
+      "Length": 19125058
+    },
+    "definition/_15.fdx": {
+      "Length": 17111
+    },
+    "definition/_15.fnm": {
+      "Length": 1453
+    },
+    "definition/_15.si": {
+      "Length": 484
+    },
+    "definition/_15_Lucene41AutoPrefix_0.doc": {
+      "Length": 1532904
+    },
+    "definition/_15_Lucene41AutoPrefix_0.tim": {
+      "Length": 3064203
+    },
+    "definition/_15_Lucene41AutoPrefix_0.tip": {
+      "Length": 38139
+    },
+    "definition/_15_Lucene41_0.doc": {
+      "Length": 723695
+    },
+    "definition/_15_Lucene41_0.tim": {
+      "Length": 7100585
+    },
+    "definition/_15_Lucene41_0.tip": {
+      "Length": 78561
+    },
+    "definition/_15_Lucene45_0.dvd": {
+      "Length": 65
+    },
+    "definition/_15_Lucene45_0.dvm": {
+      "Length": 102
+    },
+    "definition/_b.cfe": {
+      "Length": 400
+    },
+    "definition/_b.cfs": {
+      "Length": 2673234
+    },
+    "definition/_b.si": {
+      "Length": 253
+    },
+    "definition/_j.fdt": {
+      "Length": 22540708
+    },
+    "definition/_j.fdx": {
+      "Length": 15860
+    },
+    "definition/_j.fnm": {
+      "Length": 1453
+    },
+    "definition/_j.si": {
+      "Length": 472
+    },
+    "definition/_j_Lucene41AutoPrefix_0.doc": {
+      "Length": 1593830
+    },
+    "definition/_j_Lucene41AutoPrefix_0.tim": {
+      "Length": 983243
+    },
+    "definition/_j_Lucene41AutoPrefix_0.tip": {
+      "Length": 15128
+    },
+    "definition/_j_Lucene41_0.doc": {
+      "Length": 1393808
+    },
+    "definition/_j_Lucene41_0.tim": {
+      "Length": 3582863
+    },
+    "definition/_j_Lucene41_0.tip": {
+      "Length": 46147
+    },
+    "definition/_j_Lucene45_0.dvd": {
+      "Length": 66
+    },
+    "definition/_j_Lucene45_0.dvm": {
+      "Length": 102
+    },
+    "definition/_m.cfe": {
+      "Length": 400
+    },
+    "definition/_m.cfs": {
+      "Length": 1938307
+    },
+    "definition/_m.si": {
+      "Length": 253
+    },
+    "definition/_r.cfe": {
+      "Length": 400
+    },
+    "definition/_r.cfs": {
+      "Length": 1382173
+    },
+    "definition/_r.si": {
+      "Length": 253
+    },
+    "definition/_u.fdt": {
+      "Length": 25370228
+    },
+    "definition/_u.fdx": {
+      "Length": 23209
+    },
+    "definition/_u.fnm": {
+      "Length": 1453
+    },
+    "definition/_u.si": {
+      "Length": 472
+    },
+    "definition/_u_Lucene41AutoPrefix_0.doc": {
+      "Length": 2140579
+    },
+    "definition/_u_Lucene41AutoPrefix_0.tim": {
+      "Length": 3421593
+    },
+    "definition/_u_Lucene41AutoPrefix_0.tip": {
+      "Length": 45730
+    },
+    "definition/_u_Lucene41_0.doc": {
+      "Length": 1123204
+    },
+    "definition/_u_Lucene41_0.tim": {
+      "Length": 8305348
+    },
+    "definition/_u_Lucene41_0.tip": {
+      "Length": 89196
+    },
+    "definition/_u_Lucene45_0.dvd": {
+      "Length": 68
+    },
+    "definition/_u_Lucene45_0.dvm": {
+      "Length": 102
+    },
+    "definition/_x.cfe": {
+      "Length": 400
+    },
+    "definition/_x.cfs": {
+      "Length": 4113949
+    },
+    "definition/_x.si": {
+      "Length": 253
+    },
+    "definition/_z.cfe": {
+      "Length": 400
+    },
+    "definition/_z.cfs": {
+      "Length": 1116977
+    },
+    "definition/_z.si": {
+      "Length": 253
+    },
+    "language/segments.gen": {
+      "Length": 36
+    },
+    "language/segments_1": {
+      "Length": 53
+    },
+    "project/segments.gen": {
+      "Length": 36
+    },
+    "project/segments_1": {
+      "Length": 341
+    },
+    "project/_0.cfe": {
+      "Length": 274
+    },
+    "project/_0.cfs": {
+      "Length": 2773480
+    },
+    "project/_0.si": {
+      "Length": 253
+    },
+    "project/_1.cfe": {
+      "Length": 274
+    },
+    "project/_1.cfs": {
+      "Length": 471810
+    },
+    "project/_1.si": {
+      "Length": 253
+    },
+    "project/_2.cfe": {
+      "Length": 274
+    },
+    "project/_2.cfs": {
+      "Length": 270934
+    },
+    "project/_2.si": {
+      "Length": 253
+    },
+    "project/_3.cfe": {
+      "Length": 274
+    },
+    "project/_3.cfs": {
+      "Length": 190846
+    },
+    "project/_3.si": {
+      "Length": 253
+    },
+    "project/_4.cfe": {
+      "Length": 274
+    },
+    "project/_4.cfs": {
+      "Length": 193149
+    },
+    "project/_4.si": {
+      "Length": 253
+    },
+    "project/_5.cfe": {
+      "Length": 274
+    },
+    "project/_5.cfs": {
+      "Length": 118369
+    },
+    "project/_5.si": {
+      "Length": 253
+    },
+    "project/_6.cfe": {
+      "Length": 274
+    },
+    "project/_6.cfs": {
+      "Length": 178591
+    },
+    "project/_6.si": {
+      "Length": 253
+    },
+    "project/_7.cfe": {
+      "Length": 274
+    },
+    "project/_7.cfs": {
+      "Length": 136284
+    },
+    "project/_7.si": {
+      "Length": 253
+    },
+    "projectreference/segments.gen": {
+      "Length": 36
+    },
+    "projectreference/segments_1": {
+      "Length": 341
+    },
+    "projectreference/_0.cfe": {
+      "Length": 274
+    },
+    "projectreference/_0.cfs": {
+      "Length": 2828429
+    },
+    "projectreference/_0.si": {
+      "Length": 253
+    },
+    "projectreference/_1.cfe": {
+      "Length": 274
+    },
+    "projectreference/_1.cfs": {
+      "Length": 861779
+    },
+    "projectreference/_1.si": {
+      "Length": 253
+    },
+    "projectreference/_2.cfe": {
+      "Length": 274
+    },
+    "projectreference/_2.cfs": {
+      "Length": 313631
+    },
+    "projectreference/_2.si": {
+      "Length": 253
+    },
+    "projectreference/_3.cfe": {
+      "Length": 274
+    },
+    "projectreference/_3.cfs": {
+      "Length": 160366
+    },
+    "projectreference/_3.si": {
+      "Length": 253
+    },
+    "projectreference/_4.cfe": {
+      "Length": 274
+    },
+    "projectreference/_4.cfs": {
+      "Length": 208423
+    },
+    "projectreference/_4.si": {
+      "Length": 253
+    },
+    "projectreference/_5.cfe": {
+      "Length": 274
+    },
+    "projectreference/_5.cfs": {
+      "Length": 306891
+    },
+    "projectreference/_5.si": {
+      "Length": 253
+    },
+    "projectreference/_6.cfe": {
+      "Length": 274
+    },
+    "projectreference/_6.cfs": {
+      "Length": 58787
+    },
+    "projectreference/_6.si": {
+      "Length": 253
+    },
+    "projectreference/_7.cfe": {
+      "Length": 274
+    },
+    "projectreference/_7.cfs": {
+      "Length": 126785
+    },
+    "projectreference/_7.si": {
+      "Length": 253
+    },
+    "property/segments.gen": {
+      "Length": 36
+    },
+    "property/segments_1": {
+      "Length": 197
+    },
+    "property/_0.cfe": {
+      "Length": 210
+    },
+    "property/_0.cfs": {
+      "Length": 8283386
+    },
+    "property/_0.si": {
+      "Length": 253
+    },
+    "property/_1.cfe": {
+      "Length": 210
+    },
+    "property/_1.cfs": {
+      "Length": 720068
+    },
+    "property/_1.si": {
+      "Length": 253
+    },
+    "property/_2.cfe": {
+      "Length": 210
+    },
+    "property/_2.cfs": {
+      "Length": 332708
+    },
+    "property/_2.si": {
+      "Length": 253
+    },
+    "property/_3.cfe": {
+      "Length": 210
+    },
+    "property/_3.cfs": {
+      "Length": 167553
+    },
+    "property/_3.si": {
+      "Length": 253
+    },
+    "reference/segments.gen": {
+      "Length": 36
+    },
+    "reference/segments_1": {
+      "Length": 569
+    },
+    "reference/_18.fdt": {
+      "Length": 56460363
+    },
+    "reference/_18.fdx": {
+      "Length": 40355
+    },
+    "reference/_18.fnm": {
+      "Length": 1470
+    },
+    "reference/_18.si": {
+      "Length": 397
+    },
+    "reference/_18_Lucene41_0.doc": {
+      "Length": 1923530
+    },
+    "reference/_18_Lucene41_0.tim": {
+      "Length": 8496166
+    },
+    "reference/_18_Lucene41_0.tip": {
+      "Length": 73577
+    },
+    "reference/_18_Lucene45_0.dvd": {
+      "Length": 281590
+    },
+    "reference/_18_Lucene45_0.dvm": {
+      "Length": 178
+    },
+    "reference/_1g.cfe": {
+      "Length": 274
+    },
+    "reference/_1g.cfs": {
+      "Length": 6621701
+    },
+    "reference/_1g.si": {
+      "Length": 256
+    },
+    "reference/_1i.cfe": {
+      "Length": 274
+    },
+    "reference/_1i.cfs": {
+      "Length": 6863351
+    },
+    "reference/_1i.si": {
+      "Length": 256
+    },
+    "reference/_1j.fdt": {
+      "Length": 68177032
+    },
+    "reference/_1j.fdx": {
+      "Length": 50180
+    },
+    "reference/_1j.fnm": {
+      "Length": 1470
+    },
+    "reference/_1j.si": {
+      "Length": 397
+    },
+    "reference/_1j_Lucene41_0.doc": {
+      "Length": 2012855
+    },
+    "reference/_1j_Lucene41_0.tim": {
+      "Length": 9146640
+    },
+    "reference/_1j_Lucene41_0.tip": {
+      "Length": 78921
+    },
+    "reference/_1j_Lucene45_0.dvd": {
+      "Length": 288563
+    },
+    "reference/_1j_Lucene45_0.dvm": {
+      "Length": 178
+    },
+    "reference/_1k.cfe": {
+      "Length": 274
+    },
+    "reference/_1k.cfs": {
+      "Length": 6752816
+    },
+    "reference/_1k.si": {
+      "Length": 256
+    },
+    "reference/_1l.cfe": {
+      "Length": 274
+    },
+    "reference/_1l.cfs": {
+      "Length": 3946677
+    },
+    "reference/_1l.si": {
+      "Length": 256
+    },
+    "reference/_1m.cfe": {
+      "Length": 274
+    },
+    "reference/_1m.cfs": {
+      "Length": 3793218
+    },
+    "reference/_1m.si": {
+      "Length": 256
+    },
+    "reference/_1n.cfe": {
+      "Length": 274
+    },
+    "reference/_1n.cfs": {
+      "Length": 4040435
+    },
+    "reference/_1n.si": {
+      "Length": 256
+    },
+    "reference/_1o.cfe": {
+      "Length": 274
+    },
+    "reference/_1o.cfs": {
+      "Length": 2904343
+    },
+    "reference/_1o.si": {
+      "Length": 256
+    },
+    "reference/_1p.cfe": {
+      "Length": 274
+    },
+    "reference/_1p.cfs": {
+      "Length": 1100788
+    },
+    "reference/_1p.si": {
+      "Length": 256
+    },
+    "reference/_1q.cfe": {
+      "Length": 274
+    },
+    "reference/_1q.cfs": {
+      "Length": 920472
+    },
+    "reference/_1q.si": {
+      "Length": 256
+    },
+    "reference/_1r.fdt": {
+      "Length": 64768919
+    },
+    "reference/_1r.fdx": {
+      "Length": 45573
+    },
+    "reference/_1r.fnm": {
+      "Length": 1470
+    },
+    "reference/_1r.si": {
+      "Length": 397
+    },
+    "reference/_1r_Lucene41_0.doc": {
+      "Length": 1976324
+    },
+    "reference/_1r_Lucene41_0.tim": {
+      "Length": 9041116
+    },
+    "reference/_1r_Lucene41_0.tip": {
+      "Length": 78234
+    },
+    "reference/_1r_Lucene45_0.dvd": {
+      "Length": 295040
+    },
+    "reference/_1r_Lucene45_0.dvm": {
+      "Length": 178
+    },
+    "reference/_k.fdt": {
+      "Length": 57624421
+    },
+    "reference/_k.fdx": {
+      "Length": 40024
+    },
+    "reference/_k.fnm": {
+      "Length": 1470
+    },
+    "reference/_k.si": {
+      "Length": 388
+    },
+    "reference/_k_Lucene41_0.doc": {
+      "Length": 1963019
+    },
+    "reference/_k_Lucene41_0.tim": {
+      "Length": 7951884
+    },
+    "reference/_k_Lucene41_0.tip": {
+      "Length": 67897
+    },
+    "reference/_k_Lucene45_0.dvd": {
+      "Length": 262803
+    },
+    "reference/_k_Lucene45_0.dvm": {
+      "Length": 178
+    },
+    "reference/_w.fdt": {
+      "Length": 77059185
+    },
+    "reference/_w.fdx": {
+      "Length": 55657
+    },
+    "reference/_w.fnm": {
+      "Length": 1470
+    },
+    "reference/_w.si": {
+      "Length": 388
+    },
+    "reference/_w_Lucene41_0.doc": {
+      "Length": 2076630
+    },
+    "reference/_w_Lucene41_0.tim": {
+      "Length": 9038949
+    },
+    "reference/_w_Lucene41_0.tip": {
+      "Length": 75657
+    },
+    "reference/_w_Lucene45_0.dvd": {
+      "Length": 273218
+    },
+    "reference/_w_Lucene45_0.dvm": {
+      "Length": 178
+    },
+    "registeredentity/segments.gen": {
+      "Length": 36
+    },
+    "registeredentity/segments_1": {
+      "Length": 53
+    },
+    "repository/segments.gen": {
+      "Length": 36
+    },
+    "repository/segments_1": {
+      "Length": 89
+    },
+    "repository/_0.cfe": {
+      "Length": 210
+    },
+    "repository/_0.cfs": {
+      "Length": 1161
+    },
+    "repository/_0.si": {
+      "Length": 253
+    },
+    "stableidmarker/segments.gen": {
+      "Length": 36
+    },
+    "stableidmarker/segments_1": {
+      "Length": 53
+    },
+    "storedfilter/segments.gen": {
+      "Length": 36
+    },
+    "storedfilter/segments_1": {
+      "Length": 53
+    },
+    "textchunk/segments.gen": {
+      "Length": 36
+    },
+    "textchunk/segments_1": {
+      "Length": 568
+    },
+    "textchunk/_0.cfe": {
+      "Length": 284
+    },
+    "textchunk/_0.cfs": {
+      "Length": 5784390
+    },
+    "textchunk/_0.si": {
+      "Length": 253
+    },
+    "textchunk/_18.fdt": {
+      "Length": 18895921
+    },
+    "textchunk/_18.fdx": {
+      "Length": 14191
+    },
+    "textchunk/_18.fnm": {
+      "Length": 369
+    },
+    "textchunk/_18.nvd": {
+      "Length": 44246
+    },
+    "textchunk/_18.nvm": {
+      "Length": 62
+    },
+    "textchunk/_18.si": {
+      "Length": 394
+    },
+    "textchunk/_18_Lucene41_0.doc": {
+      "Length": 2639616
+    },
+    "textchunk/_18_Lucene41_0.pos": {
+      "Length": 3998062
+    },
+    "textchunk/_18_Lucene41_0.tim": {
+      "Length": 5679190
+    },
+    "textchunk/_18_Lucene41_0.tip": {
+      "Length": 73520
+    },
+    "textchunk/_1j.fdt": {
+      "Length": 19185197
+    },
+    "textchunk/_1j.fdx": {
+      "Length": 13810
+    },
+    "textchunk/_1j.fnm": {
+      "Length": 369
+    },
+    "textchunk/_1j.nvd": {
+      "Length": 44874
+    },
+    "textchunk/_1j.nvm": {
+      "Length": 62
+    },
+    "textchunk/_1j.si": {
+      "Length": 394
+    },
+    "textchunk/_1j_Lucene41_0.doc": {
+      "Length": 2696511
+    },
+    "textchunk/_1j_Lucene41_0.pos": {
+      "Length": 3762698
+    },
+    "textchunk/_1j_Lucene41_0.tim": {
+      "Length": 6008673
+    },
+    "textchunk/_1j_Lucene41_0.tip": {
+      "Length": 79461
+    },
+    "textchunk/_1l.cfe": {
+      "Length": 284
+    },
+    "textchunk/_1l.cfs": {
+      "Length": 4067792
+    },
+    "textchunk/_1l.si": {
+      "Length": 256
+    },
+    "textchunk/_1u.fdt": {
+      "Length": 17404740
+    },
+    "textchunk/_1u.fdx": {
+      "Length": 12457
+    },
+    "textchunk/_1u.fnm": {
+      "Length": 369
+    },
+    "textchunk/_1u.nvd": {
+      "Length": 33396
+    },
+    "textchunk/_1u.nvm": {
+      "Length": 62
+    },
+    "textchunk/_1u.si": {
+      "Length": 394
+    },
+    "textchunk/_1u_Lucene41_0.doc": {
+      "Length": 2385212
+    },
+    "textchunk/_1u_Lucene41_0.pos": {
+      "Length": 4332783
+    },
+    "textchunk/_1u_Lucene41_0.tim": {
+      "Length": 4738609
+    },
+    "textchunk/_1u_Lucene41_0.tip": {
+      "Length": 64897
+    },
+    "textchunk/_1y.cfe": {
+      "Length": 284
+    },
+    "textchunk/_1y.cfs": {
+      "Length": 4146814
+    },
+    "textchunk/_1y.si": {
+      "Length": 256
+    },
+    "textchunk/_24.cfe": {
+      "Length": 284
+    },
+    "textchunk/_24.cfs": {
+      "Length": 817148
+    },
+    "textchunk/_24.si": {
+      "Length": 256
+    },
+    "textchunk/_25.fdt": {
+      "Length": 17468158
+    },
+    "textchunk/_25.fdx": {
+      "Length": 12715
+    },
+    "textchunk/_25.fnm": {
+      "Length": 369
+    },
+    "textchunk/_25.nvd": {
+      "Length": 38226
+    },
+    "textchunk/_25.nvm": {
+      "Length": 62
+    },
+    "textchunk/_25.si": {
+      "Length": 394
+    },
+    "textchunk/_25_Lucene41_0.doc": {
+      "Length": 2382527
+    },
+    "textchunk/_25_Lucene41_0.pos": {
+      "Length": 3835676
+    },
+    "textchunk/_25_Lucene41_0.tim": {
+      "Length": 5299783
+    },
+    "textchunk/_25_Lucene41_0.tip": {
+      "Length": 68792
+    },
+    "textchunk/_28.cfe": {
+      "Length": 284
+    },
+    "textchunk/_28.cfs": {
+      "Length": 1070836
+    },
+    "textchunk/_28.si": {
+      "Length": 256
+    },
+    "textchunk/_29.cfe": {
+      "Length": 284
+    },
+    "textchunk/_29.cfs": {
+      "Length": 414885
+    },
+    "textchunk/_29.si": {
+      "Length": 256
+    },
+    "textchunk/_2a.cfe": {
+      "Length": 284
+    },
+    "textchunk/_2a.cfs": {
+      "Length": 4980
+    },
+    "textchunk/_2a.si": {
+      "Length": 256
+    },
+    "textchunk/_2b.fdt": {
+      "Length": 15969924
+    },
+    "textchunk/_2b.fdx": {
+      "Length": 11052
+    },
+    "textchunk/_2b.fnm": {
+      "Length": 369
+    },
+    "textchunk/_2b.nvd": {
+      "Length": 45279
+    },
+    "textchunk/_2b.nvm": {
+      "Length": 62
+    },
+    "textchunk/_2b.si": {
+      "Length": 394
+    },
+    "textchunk/_2b_Lucene41_0.doc": {
+      "Length": 2504181
+    },
+    "textchunk/_2b_Lucene41_0.pos": {
+      "Length": 3028350
+    },
+    "textchunk/_2b_Lucene41_0.tim": {
+      "Length": 4375414
+    },
+    "textchunk/_2b_Lucene41_0.tip": {
+      "Length": 58404
+    },
+    "textchunk/_k.fdt": {
+      "Length": 18169663
+    },
+    "textchunk/_k.fdx": {
+      "Length": 11688
+    },
+    "textchunk/_k.fnm": {
+      "Length": 369
+    },
+    "textchunk/_k.nvd": {
+      "Length": 34811
+    },
+    "textchunk/_k.nvm": {
+      "Length": 62
+    },
+    "textchunk/_k.si": {
+      "Length": 384
+    },
+    "textchunk/_k_Lucene41_0.doc": {
+      "Length": 2445173
+    },
+    "textchunk/_k_Lucene41_0.pos": {
+      "Length": 3888940
+    },
+    "textchunk/_k_Lucene41_0.tim": {
+      "Length": 4952171
+    },
+    "textchunk/_k_Lucene41_0.tip": {
+      "Length": 66321
+    },
+    "textchunk/_x.fdt": {
+      "Length": 18812460
+    },
+    "textchunk/_x.fdx": {
+      "Length": 14326
+    },
+    "textchunk/_x.fnm": {
+      "Length": 369
+    },
+    "textchunk/_x.nvd": {
+      "Length": 52113
+    },
+    "textchunk/_x.nvm": {
+      "Length": 62
+    },
+    "textchunk/_x.si": {
+      "Length": 384
+    },
+    "textchunk/_x_Lucene41_0.doc": {
+      "Length": 2761156
+    },
+    "textchunk/_x_Lucene41_0.pos": {
+      "Length": 3840097
+    },
+    "textchunk/_x_Lucene41_0.tim": {
+      "Length": 5581055
+    },
+    "textchunk/_x_Lucene41_0.tip": {
+      "Length": 77662
+    },
+    "textsource/segments.gen": {
+      "Length": 36
+    },
+    "textsource/segments_1": {
+      "Length": 269
+    },
+    "textsource/_0.cfe": {
+      "Length": 274
+    },
+    "textsource/_0.cfs": {
+      "Length": 14931150
+    },
+    "textsource/_0.si": {
+      "Length": 253
+    },
+    "textsource/_1.cfe": {
+      "Length": 274
+    },
+    "textsource/_1.cfs": {
+      "Length": 3475739
+    },
+    "textsource/_1.si": {
+      "Length": 253
+    },
+    "textsource/_2.cfe": {
+      "Length": 274
+    },
+    "textsource/_2.cfs": {
+      "Length": 930342
+    },
+    "textsource/_2.si": {
+      "Length": 253
+    },
+    "textsource/_3.cfe": {
+      "Length": 274
+    },
+    "textsource/_3.cfs": {
+      "Length": 793696
+    },
+    "textsource/_3.si": {
+      "Length": 253
+    },
+    "textsource/_4.cfe": {
+      "Length": 274
+    },
+    "textsource/_4.cfs": {
+      "Length": 757135
+    },
+    "textsource/_4.si": {
+      "Length": 253
+    },
+    "textsource/_5.cfe": {
+      "Length": 274
+    },
+    "textsource/_5.cfs": {
+      "Length": 10604741
+    },
+    "textsource/_5.si": {
+      "Length": 253
+    }
+  }
+}
